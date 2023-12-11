@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://simple-koala-21.clerk.accounts.dev",
+      domain: "https://normal-cobra-27.clerk.accounts.dev",
       applicationID: "convex",
     }
   ]
